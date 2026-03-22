@@ -1,7 +1,8 @@
 # AI VIDEO AUTOMATION N8N
 
-A fully automated end-to-end AI video generation pipeline built using n8n, Python, Flask, and AI APIs. This system demonstrates workflow automation, webhook-based backend integration, and automated media processing without manual intervention.
+This project is an end-to-end automated AI video generation system that uses event-driven workflows to generate videos without manual intervention.
 
+It combines n8n workflow automation with a Python backend to simulate real-world AI content pipelines used in production systems.
 
 🎥 Demo
 
@@ -19,6 +20,18 @@ https://github.com/vivek-devda/ai-video-automation-n8n/raw/main/output.mp4
 - Modular and scalable pipeline architecture
 
 ---
+
+🎯 Real-World Use Case
+
+This system can be used for:
+
+- Automated YouTube Shorts generation
+- AI content pipelines for marketing
+- Social media automation tools
+- Scalable content creation systems
+
+It demonstrates how AI + automation can replace manual content workflows.
+
 
 ## Tech Stack
 
