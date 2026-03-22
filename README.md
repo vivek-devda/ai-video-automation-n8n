@@ -1,4 +1,4 @@
-# AI Video Generation Automation Pipeline
+# AI VIDEO AUTOMATION N8N
 
 A fully automated end-to-end AI video generation pipeline built using n8n, Python, Flask, and AI APIs. This system demonstrates workflow automation, webhook-based backend integration, and automated media processing without manual intervention.
 
