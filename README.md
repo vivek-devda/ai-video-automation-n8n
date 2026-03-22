@@ -2,6 +2,11 @@
 
 A fully automated end-to-end AI video generation pipeline built using n8n, Python, Flask, and AI APIs. This system demonstrates workflow automation, webhook-based backend integration, and automated media processing without manual intervention.
 
+
+🎥 Demo
+
+https://github.com/vivek-devda/ai-video-automation-n8n/raw/main/output.mp4
+
 ---
 
 ## Key Features
